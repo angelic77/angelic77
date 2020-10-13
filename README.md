@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ##  🔭 I’m currently studying Bachelor of Science in Information System at WVSU(Main Campus).
 
 ## 🌱 I’m currently learning:
-          -Sparx
+         -Sparx
          -Java programming
          - Github
           
